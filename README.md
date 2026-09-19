@@ -58,7 +58,7 @@ The program successfully print all the numbers from 1 to N.
 
 
 # EX 1B Power of 2
-## DATE: 18/07/2026
+## DATE: 16/07/2026
 ## AIM:
 To write a Java program to for given constraints.Given an integer n, return true if it is a power of two. Otherwise, return false.
 
@@ -124,7 +124,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 1C Valid Pairs using Brute Force Approach
-## DATE: 20/07/2026
+## DATE: 16/07/2026
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums and an integer k, return the number of pairs (i, j) where i < j such that |nums[i] - nums[j]| == k.
@@ -195,7 +195,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 1D Sorted Array using Divide and Conquer Approach.
-## DATE: 22/07/2026
+## DATE: 16/07/2026
 ## AIM:
 To write a Java program to for given constraints.
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
@@ -296,7 +296,7 @@ public class Solution {
 The program successfully implemented and the expected output is verified.
 
 # EX 1E Integer Multiplication using Divide and Conquer Approach(Strassen’s algorithm).
-## DATE: 24/07/2026
+## DATE: 16/07/2026
 ## AIM:
 To write a Java program to for given constraints.
 You are given two square matrices A and B of size n × n (where n is a power of 2). Your task is to compute their matrix product using Strassen’s Matrix Multiplication algorithm and return the resulting matrix.
