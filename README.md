@@ -20,8 +20,8 @@ To Write a Java program that takes an integer input N from the user and prints a
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 
 import java.util.*;
 public class demo
@@ -85,8 +85,8 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number:212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 
 import java.util.Scanner;
 
@@ -151,8 +151,8 @@ x if x >= 0.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 
 import java.util.Scanner;
 public class CountPairsWithDifference {
@@ -219,8 +219,8 @@ The overall run time complexity should be O(log (m+n)).
 ```
 /*
 Program to find the median of two sorted arrays
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
@@ -344,8 +344,8 @@ C22 = M1 − M2 + M3 + M6
 ```
 /*
 Program to perform Strassen Matrix Multiplication
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
